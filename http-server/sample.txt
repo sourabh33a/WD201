@@ -1,0 +1,4 @@
+Hello World. Welcome to Node.js File System module.
+
+welcome to the node.js streams 
+and you are updating in real time
